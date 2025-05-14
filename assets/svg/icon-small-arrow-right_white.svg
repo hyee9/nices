@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="a">
+      <path data-name="Rectangle 184338" d="M0 0h16v16H0Z" transform="translate(983 3349)" fill="none" />
+    </clipPath>
+  </defs>
+  <g transform="translate(-983 -3349)" clip-path="url(#a)" fill="#fff">
+    <path data-name="사각형 184300 - 윤곽선" d="M984.827 3355.992h11v2h-11Z" />
+    <path data-name="패스 104449" d="m991.994 3362.708-1.482-1.343 3.96-4.372-3.959-4.356 1.48-1.345 5.18 5.7Z" />
+  </g>
+</svg>

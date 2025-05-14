@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="area" width="18" height="18" transform="translate(9.711 -3)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico_outlink" transform="translate(-9.711 3)" clip-path="url(#clip-path)">
+    <rect id="area-2" data-name="area" width="18" height="18" transform="translate(9.711 -3)" fill="none"/>
+    <path id="ico_outlink-2" data-name="ico_outlink" d="M2.822,7.43,9.949.3H3.676v-1h8v1h0v7h-1V.976L3.524,8.133Z" transform="translate(12.036 0.705)" fill="#d0d0d0" opacity="0.998"/>
+  </g>
+</svg>

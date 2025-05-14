@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.455" height="26.455" viewBox="0 0 26.455 26.455">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="사각형_184333" data-name="사각형 184333" d="M26.455,0V26.455H0V0Z" transform="translate(0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="ico_Arrow_L" clip-path="url(#clip-path)">
+    <g id="패스_104464" data-name="패스 104464" transform="translate(1.12 13.145)" fill="none">
+      <path d="M23.1.719,11.911,11.912.72.719" stroke="none"/>
+      <path d="M 0.0002484101569280028 1.438791632652283 L 1.439040064811707 0 L 11.91052150726318 10.47297191619873 L 22.38498497009277 0 L 23.82377624511719 1.438791632652283 L 12.62991714477539 12.63115978240967 L 11.91052150726318 13.35055541992188 L 11.19087791442871 12.63115978240967 L 0.0002484101569280028 1.438791632652283 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="패스_104465" data-name="패스 104465" transform="translate(12.014 0.637)" fill="none">
+      <path d="M1.017,0V24.42" stroke="none"/>
+      <path d="M 0 24.41971206665039 L 0 0 L 2.034976005554199 0 L 2.034976005554199 24.41971206665039 L 0 24.41971206665039 Z" stroke="none" fill="#000"/>
+    </g>
+  </g>
+</svg>
